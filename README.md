@@ -10,7 +10,6 @@ The Bank Marketing Dataset contains data from direct marketing campaigns of a Po
 
 - `assignment_1_Alesia_Dako.ipynb` – Main Jupyter Notebook with the full pipeline and explanations  
 - `assignment_1_Alesia_Dako.pdf` – PDF version of the notebook
-- `ML_Data_preparation.pdf` – Exported deliverable  
 - `archive/` – Dataset folder containing the original CSVs  
 - `.gitignore` – Files ignored by git
 
